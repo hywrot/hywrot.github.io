@@ -1,7 +1,7 @@
 ---
 title: Hyro
 layout: home
-permalink: hyro
+permalink: /
 ---
 
 # Lorem ipsum
