@@ -1,5 +1,5 @@
 ---
-title: Hyro
+title: /hyro
 layout: page
 permalink: index
 ---
