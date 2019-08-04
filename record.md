@@ -1,5 +1,5 @@
 ---
-title:/record
+title: /record
 layout: home
 permalink: record
 ---
