@@ -5,5 +5,3 @@ permalink: record
 ---
 
 # Record
-
-{{ contents }}

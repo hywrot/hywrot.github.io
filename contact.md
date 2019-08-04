@@ -6,4 +6,4 @@ permalink: contact
 
 # Contact
 
-prepare
+( 준비중임... )
