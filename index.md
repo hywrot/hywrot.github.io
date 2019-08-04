@@ -12,5 +12,3 @@ Graphic Designer
 <br>
 <br>
 <br>
-<br>
-<br>
