@@ -1,6 +1,6 @@
 ---
 title: Hyro
-layout: home
+layout: page
 permalink: index
 ---
 
