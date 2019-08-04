@@ -4,6 +4,7 @@ google_analytics: UA-NNNNNNNN-N
 
 header_pages:
   - index.md
+  - hyro.md
   - record.md
   - contact.md
 

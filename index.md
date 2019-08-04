@@ -1,10 +1,9 @@
 ---
-title: /hyro
+title: /
 layout: page
 permalink: index
 ---
 
-# H!RO
+# index
 
-Asexual Bomb
-Graphic Designer
+markdown text whatever...
