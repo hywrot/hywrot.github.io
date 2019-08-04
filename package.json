@@ -29,6 +29,7 @@
     "aos": "^2.3.4",
     "jquery": "^3.4.1",
     "salvattore": "^1.0.9"
+    "lodash": ">=4.17.13"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
