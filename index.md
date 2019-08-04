@@ -4,6 +4,7 @@ layout: page
 permalink: index
 ---
 
-# index
+# H!RO
 
-markdown text whatever...
+Asexual Bomb
+Graphic Designer
